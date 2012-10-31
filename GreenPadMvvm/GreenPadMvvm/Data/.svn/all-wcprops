@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/GreenPad/!svn/ver/1/GreenPadMvvm/Data
+END
+DataContext.designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/GreenPad/!svn/ver/7/GreenPadMvvm/Data/DataContext.designer.cs
+END
+DataContext.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/GreenPad/!svn/ver/6/GreenPadMvvm/Data/DataContext.cs
+END
+PriorityRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/GreenPad/!svn/ver/5/GreenPadMvvm/Data/PriorityRepository.cs
+END
+TaskRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/GreenPad/!svn/ver/7/GreenPadMvvm/Data/TaskRepository.cs
+END
+DataContext.dbml.layout
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/GreenPad/!svn/ver/7/GreenPadMvvm/Data/DataContext.dbml.layout
+END
+ProjectRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/GreenPad/!svn/ver/7/GreenPadMvvm/Data/ProjectRepository.cs
+END
+DataContext.dbml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/GreenPad/!svn/ver/7/GreenPadMvvm/Data/DataContext.dbml
+END
+IRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/GreenPad/!svn/ver/7/GreenPadMvvm/Data/IRepository.cs
+END

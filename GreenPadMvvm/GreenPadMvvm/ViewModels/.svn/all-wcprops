@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/GreenPad/!svn/ver/1/GreenPadMvvm/ViewModels
+END
+MediatorEnabledViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/GreenPad/!svn/ver/5/GreenPadMvvm/ViewModels/MediatorEnabledViewModel.cs
+END
+TabViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/GreenPad/!svn/ver/1/GreenPadMvvm/ViewModels/TabViewModel.cs
+END
+ViewModelMessages.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/GreenPad/!svn/ver/7/GreenPadMvvm/ViewModels/ViewModelMessages.cs
+END
+TaskDetailsViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/GreenPad/!svn/ver/7/GreenPadMvvm/ViewModels/TaskDetailsViewModel.cs
+END
+ViewModelBase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/GreenPad/!svn/ver/1/GreenPadMvvm/ViewModels/ViewModelBase.cs
+END
+MainWindowViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/GreenPad/!svn/ver/7/GreenPadMvvm/ViewModels/MainWindowViewModel.cs
+END
+ProjectDetailsViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/GreenPad/!svn/ver/7/GreenPadMvvm/ViewModels/ProjectDetailsViewModel.cs
+END
+TaskListViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/GreenPad/!svn/ver/7/GreenPadMvvm/ViewModels/TaskListViewModel.cs
+END

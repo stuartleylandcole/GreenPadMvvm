@@ -1,0 +1,56 @@
+using System;
+using System.Data.Linq;
+namespace GreenPadMvvm.Data
+{
+    partial class Task
+    {
+        public bool IsValid()
+        {
+            return this.Project != null;
+        }
+
+        public string DueDateFormatted
+        {
+            get
+            {
+                return string.Format("{0:dd MMM yyyy}", DateDue);
+            }
+        }
+
+        public string PriorityDescription
+        {
+            get
+            {
+                string retval = string.Empty;
+                if (Priority != null)
+                {
+                    retval = Priority.Description;
+                }
+                return retval;
+            }
+        }
+
+        public void Detach()
+        {
+            this.PropertyChanged = null; 
+            this.PropertyChanging = null;
+            this._Project = default(EntityRef<Project>);
+            this._Priority = default(EntityRef<Priority>);
+        }
+    }
+
+    partial class Project
+    {
+        public bool IsValid()
+        {
+            return !string.IsNullOrWhiteSpace(this.Name);
+        }
+
+        public void Detach()
+        {
+            this.PropertyChanged = null;
+            this.PropertyChanging = null;
+            this._Tasks = default(EntitySet<Task>);
+        }
+    }
+}

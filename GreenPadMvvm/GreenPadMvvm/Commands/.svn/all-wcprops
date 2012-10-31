@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/GreenPad/!svn/ver/1/GreenPadMvvm/Commands
+END
+NewTaskCommand.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/GreenPad/!svn/ver/7/GreenPadMvvm/Commands/NewTaskCommand.cs
+END
+RelayCommand.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/GreenPad/!svn/ver/1/GreenPadMvvm/Commands/RelayCommand.cs
+END
+NewProjectCommand.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/GreenPad/!svn/ver/7/GreenPadMvvm/Commands/NewProjectCommand.cs
+END
+SaveTaskCommand.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/GreenPad/!svn/ver/7/GreenPadMvvm/Commands/SaveTaskCommand.cs
+END
+DeleteTaskCommand.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/GreenPad/!svn/ver/7/GreenPadMvvm/Commands/DeleteTaskCommand.cs
+END
+SaveProjectCommand.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/GreenPad/!svn/ver/7/GreenPadMvvm/Commands/SaveProjectCommand.cs
+END
+AmendTaskCommand.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/GreenPad/!svn/ver/7/GreenPadMvvm/Commands/AmendTaskCommand.cs
+END
+DeleteProjectCommand.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/GreenPad/!svn/ver/7/GreenPadMvvm/Commands/DeleteProjectCommand.cs
+END
+CustomCommand.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/GreenPad/!svn/ver/1/GreenPadMvvm/Commands/CustomCommand.cs
+END
+AmendProjectCommand.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/GreenPad/!svn/ver/7/GreenPadMvvm/Commands/AmendProjectCommand.cs
+END
